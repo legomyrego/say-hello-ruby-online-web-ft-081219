@@ -1,7 +1,3 @@
-  def say_hello(name = "Gabriela")
+  def say_hello
 
-    puts "Hello #{name}."
-
-  end
-
-  say_hello("Mark")
+  
